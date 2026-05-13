@@ -1,7 +1,7 @@
 sources:
   - name: demo
     database: demo  
-    schema: demo_schema  
+    schema: DEMO_SCHEMA  
     tables:
       - name: bike
-      - name: weather
+      - name: WEATHER
